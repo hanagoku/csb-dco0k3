@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hanagoku.github.io/csb-dco0k3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hanagoku.github.io/csb-dco0k3/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://hanagoku.github.io/csb-dco0k3/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://hanagoku.github.io/csb-dco0k3/static/js/runtime-main.e834672c.js",
+    "runtime-main.js.map": "https://hanagoku.github.io/csb-dco0k3/static/js/runtime-main.e834672c.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://hanagoku.github.io/csb-dco0k3/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://hanagoku.github.io/csb-dco0k3/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://hanagoku.github.io/csb-dco0k3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hanagoku.github.io/csb-dco0k3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://hanagoku.github.io/csb-dco0k3/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e834672c.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
